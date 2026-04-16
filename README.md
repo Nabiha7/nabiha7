@@ -18,14 +18,122 @@
 
 ## 🌸 À propos de moi
 
-Bonjour ! Je suis **Ibrahim Youssouf Abdelatif**, Data Scientist passionné avec un **MSc en Mathématiques Appliquées** de **Paris-Dauphine PSL**.
+<!-- HEADER -->
 
-Je transforme des données complexes en insights actionnables, des modèles prédictifs jusqu'aux systèmes RAG et pipelines LLM. Je crois que chaque dataset raconte une histoire — mon rôle est de la révéler. 📊
+<div align="center">
 
-- 🔭 **Focus actuel :** Machine Learning, Deep Learning, LLMs & Reinforcement Learning
-- 🌱 **En cours :** Fine-tuning de LLMs, RAG Systems, MLOps & CI/CD
-- 💬 **Discutons de :** Data Science, IA Générative, Mathématiques
-- ⚡ **Fun fact :** Chaque dataset cache une histoire, il suffit de l'écouter !
+![Header](https://capsule-render.vercel.app/api?type=soft\&color=0\:EEE8F8,50\:F8E8EE,100\:E8F4EE\&height=180\&section=header\&text=Nabiha%20Mahfooz\&fontSize=36\&fontColor=6B4BA8\&animation=fadeIn\&fontAlignY=38\&desc=Future%20Data%20Analyst%20·%20Master%20Big%20Data%20\(Sorbonne%20Paris%20Nord\)\&descAlignY=58\&descSize=16)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=20\&duration=3000\&pause=1000\&color=9D5B7B\&center=true\&vCenter=true\&repeat=true\&width=500\&height=35\&lines=Future+Data+Analyst;Business+%26+Data+Analytics;Economics+%26+Big+Data;Turning+Data+into+Insights)](https://git.io/typing-svg)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-C4B4E8?style=for-the-badge\&logo=linkedin\&logoColor=6B4BA8)](https://www.linkedin.com/in/abdelatif-ibrahim/)
+[![Email](https://img.shields.io/badge/Email-E8F4EE?style=for-the-badge\&logo=gmail\&logoColor=3A7A5A)](mailto:mahfooznabiha@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=tonpseudo\&style=for-the-badge\&color=C4B4E8)](https://github.com/tonpseudo)
+
+</div>
+
+---
+
+## 🌸 À propos de moi
+
+Je suis **Nabiha Mahfooz**, étudiante en **économie et gestion**, admise en **Master Big Data à l’Université Sorbonne Paris Nord**.
+
+Je développe des compétences en **analyse de données, modélisation statistique et prise de décision**, avec une approche orientée **business et stratégie**.
+
+💡 Mon objectif est de **transformer les données en insights utiles pour les entreprises**.
+
+* 📊 Analyse de données & statistiques
+* 📈 Finance, marketing & stratégie
+* 🤖 Initiation au machine learning
+* 🚀 Intérêt pour la data appliquée aux organisations
+
+---
+
+## 🛠️ Compétences techniques
+
+### 🔷 Langages & outils
+
+![Python](https://img.shields.io/badge/Python-EEE8F8?style=for-the-badge\&logo=python\&logoColor=6B4BA8)
+![R](https://img.shields.io/badge/R-E8EEF8?style=for-the-badge\&logo=r\&logoColor=3A5A8A)
+![SQL](https://img.shields.io/badge/SQL-E8F4EE?style=for-the-badge\&logo=postgresql\&logoColor=3A7A5A)
+
+### 📊 Analyse de données
+
+![Excel](https://img.shields.io/badge/Excel-F8E8EE?style=for-the-badge\&logo=microsoft-excel\&logoColor=9D5B7B)
+![Statistics](https://img.shields.io/badge/Statistics-EEE8F8?style=for-the-badge)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-E8EEF8?style=for-the-badge)
+
+### 🤖 Modélisation & IA
+
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-E8F4EE?style=for-the-badge)
+![Regression](https://img.shields.io/badge/Statistical_Modeling-FBF0E8?style=for-the-badge)
+
+---
+
+## 🚀 Projets
+
+| Projet                              | Description                                                 |
+| ----------------------------------- | ----------------------------------------------------------- |
+| 📊 **Analyse de données (Licence)** | Études statistiques, enquêtes qualitatives et quantitatives |
+| 🏦 **Projet finance & marketing**   | Diagnostic financier, stratégie et positionnement           |
+| 📈 **Modélisation statistique**     | Analyse de données avec Python et R                         |
+| 💡 **Projet entrepreneurial**       | Création d’entreprise (2025)                                |
+
+👉 Ajoute ici tes projets GitHub au fur et à mesure pour enrichir ton profil
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tonpseudo\&show_icons=true\&theme=default\&bg_color=EEE8F8\&title_color=6B4BA8\&icon_color=9D5B7B\&text_color=3A3060\&border_color=C4B4E8\&border_radius=12)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tonpseudo\&layout=compact\&theme=default\&bg_color=F8E8EE\&title_color=9D5B7B\&text_color=6B3A5A\&border_color=E8B4C8\&border_radius=12)
+
+</div>
+
+---
+
+## 🌱 En ce moment
+
+```
+📊 Data Analysis        → Python, R, SQL
+📈 Statistiques         → Modélisation & interpration
+🏦 Business Analytics   → Finance & marketing
+🤖 Big Data             → Préparation au master
+```
+
+---
+
+## 🤝 Objectif
+
+🎯 Je recherche des opportunités en :
+
+* Data Analyst
+* Business Analyst
+* Big Data
+
+---
+
+## 💬 Me contacter
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/Me_contacter_sur_LinkedIn-C4B4E8?style=for-the-badge\&logo=linkedin\&logoColor=6B4BA8)](https://www.linkedin.com/in/abdelatif-ibrahim/)
+[![Email](https://img.shields.io/badge/Envoyer_un_email-E8F4EE?style=for-the-badge\&logo=gmail\&logoColor=3A7A5A)](mailto:mahfooznabiha@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=soft\&color=0\:EEE8F8,100\:E8F4EE\&height=80\&section=footer)
+
+</div>
 
 ---
 
