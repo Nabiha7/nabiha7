@@ -12,10 +12,10 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-C4B4E8?style=for-the-badge\&logo=linkedin\&logoColor=6B4BA8)](https://www.linkedin.com/in/abdelatif-ibrahim/)
+**[[![LinkedIn](https://img.shields.io/badge/LinkedIn-C4B4E8?style=for-the-badge\&logo=linkedin\&logoColor=6B4BA8)](https://www.linkedin.com/in/abdelatif-ibrahim/)
 [![Email](https://img.shields.io/badge/Email-E8F4EE?style=for-the-badge\&logo=gmail\&logoColor=3A7A5A)](mailto:mahfooznabiha@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=tonpseudo\&style=for-the-badge\&color=C4B4E8)](https://github.com/tonpseudo)
-
+[![Profile Views](https://komarev.com/ghpvc/?username=tonpseudo\&style=for-the-badge\&color=C4B4E8)](https://github.com/tonpseudo)](https://www.linkedin.com/in/nabiha-m-719655384)
+**
 </div>
 
 ---
