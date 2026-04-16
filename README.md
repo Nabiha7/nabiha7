@@ -169,19 +169,6 @@ Je développe des compétences en **analyse de données, modélisation statistiq
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=latifo01&show_icons=true&theme=default&bg_color=EEE8F8&title_color=6B4BA8&icon_color=9D5B7B&text_color=3A3060&border_color=C4B4E8&border_radius=12)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=latifo01&layout=compact&theme=default&bg_color=F8E8EE&title_color=9D5B7B&text_color=6B3A5A&border_color=E8B4C8&border_radius=12)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=latifo01&bg_color=E8EEF8&color=3A5A8A&line=A8B8D8&point=6B4BA8&area=true&hide_border=true)
-
-</div>
-
----
 
 ## 🌱 Ce que j'explore en ce moment
 
