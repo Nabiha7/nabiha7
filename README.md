@@ -1,68 +1,123 @@
-# Bonjour, je suis Mahfooz nabiha
-Bienvenue sur mon profil GitHub !
+<!-- HEADER -->
+<div align="center">
 
-## À propos de moi
-Admise au master Economie de l’Entreprise et des Marchés parcours Big Data à l'Université Sorbonne Paris Nord, je développe des compétences en
-analyse de données et modélisation prête à relever les défis .
-Je développe des compétences en analyse de données, modélisation statistique et machine learning, avec un intérêt particulier pour l’application des données dans les domaines économiques, business et santé.
+![Header](https://capsule-render.vercel.app/api?type=soft&color=0:EEE8F8,50:F8E8EE,100:E8EEF8&height=180&section=header&text=Ibrahim%20Youssouf%20Abdelatif&fontSize=36&fontColor=6B4BA8&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20·%20MSc%20Applied%20Mathematics%20—%20Paris-Dauphine%20PSL&descAlignY=58&descSize=16)
 
-Spécialisation : Data Analysis & Big Data
-Intérêt : Machine Learning, Data Science, Bioinformatique
-Objectif : évoluer et travailler dans la data
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=9D5B7B&center=true&vCenter=true&repeat=true&width=500&height=35&lines=Junior+Data+Scientist;Machine+Learning+Engineer;Generative+AI+Enthusiast;Applied+Mathematics+·+Dauphine+PSL)](https://git.io/typing-svg)
 
-# Projets académiques
+<br/>
 
-Surveillance médicale temps réel (Data Science)
-Pipeline de données avec Kafka → Python → Elasticsearch
-Détection d’anomalies et alertes automatisées
-Visualisation via Kibana dashboards
-Outils : Python, Docker, Elasticsearch
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-C4B4E8?style=for-the-badge&logo=linkedin&logoColor=6B4BA8)](https://www.linkedin.com/in/abdelatif-ibrahim/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-F8E8EE?style=for-the-badge&logo=vercel&logoColor=9D5B7B)](https://ibrahim-abdelatif.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-E8F4EE?style=for-the-badge&logo=gmail&logoColor=3A7A5A)](mailto:ton.email@exemple.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=latifo01&style=for-the-badge&color=C4B4E8)](https://github.com/latifo01)
 
-Analyse SQL – ClassicModels
-Requêtes avancées : CTEs, window functions, triggers
-Analyse RFM (segmentation clients)
-Visualisations avec Pandas, Matplotlib
+</div>
 
-Économétrie appliquée
-Régression linéaire, ACP
-Analyse statistique et visualisation sous RStudio
+---
 
-master lab – Application bien-être campus
-Analyse des besoins utilisateurs
-Gestion de projet (planning, matrice RACI)
+## 🌸 À propos de moi
 
-# Expérience professionnelle
-Assistante Franchisseur – Heavenly Desserts (Canada )
-Participation à l’ouverture d’une franchise internationale
-Réunions stratégiques avec investisseurs
-Analyse du développement d’un réseau de franchises
-Contribution à des présentations business et négociations
+Bonjour ! Je suis **Ibrahim Youssouf Abdelatif**, Data Scientist passionné avec un **MSc en Mathématiques Appliquées** de **Paris-Dauphine PSL**.
 
-# Compétences techniques
+Je transforme des données complexes en insights actionnables, des modèles prédictifs jusqu'aux systèmes RAG et pipelines LLM. Je crois que chaque dataset raconte une histoire — mon rôle est de la révéler. 📊
 
-Langages & Data
-Python, R, SQL
-Analyse de données, modélisation statistique
+- 🔭 **Focus actuel :** Machine Learning, Deep Learning, LLMs & Reinforcement Learning
+- 🌱 **En cours :** Fine-tuning de LLMs, RAG Systems, MLOps & CI/CD
+- 💬 **Discutons de :** Data Science, IA Générative, Mathématiques
+- ⚡ **Fun fact :** Chaque dataset cache une histoire, il suffit de l'écouter !
 
-Outils
-Pandas, NumPy, Matplotlib, Scikit-learn
-RStudio, Jupyter Notebook
-Kafka, Elasticsearch, Kibana
+---
 
-Environnement
-Git, Docker, VS Code
-Microsoft Office (Excel, PowerPoint, Word)
+## 🛠️ Stack technique
 
-Qualités
+### 🔷 Langages
+![Python](https://img.shields.io/badge/Python-EEE8F8?style=for-the-badge&logo=python&logoColor=6B4BA8)
+![R](https://img.shields.io/badge/R-E8EEF8?style=for-the-badge&logo=r&logoColor=3A5A8A)
+![C++](https://img.shields.io/badge/C++-F8E8EE?style=for-the-badge&logo=cplusplus&logoColor=9D5B7B)
+![SQL](https://img.shields.io/badge/SQL-E8F4EE?style=for-the-badge&logo=postgresql&logoColor=3A7A5A)
 
-Créativité · Esprit d’équipe · Adaptabilité · Autonomie · Sens des responsabilités · Orientation résultats
+### 🤖 Machine Learning & Deep Learning
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-FBF0E8?style=for-the-badge&logo=scikit-learn&logoColor=8A5A30)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-F8E8EE?style=for-the-badge&logo=tensorflow&logoColor=9D5B7B)
+![PyTorch](https://img.shields.io/badge/PyTorch-EEE8F8?style=for-the-badge&logo=pytorch&logoColor=6B4BA8)
+![XGBoost](https://img.shields.io/badge/XGBoost-E8F4EE?style=for-the-badge&logo=xgboost&logoColor=3A7A5A)
+![Pandas](https://img.shields.io/badge/Pandas-E8EEF8?style=for-the-badge&logo=pandas&logoColor=3A5A8A)
+![NumPy](https://img.shields.io/badge/NumPy-FBF0E8?style=for-the-badge&logo=numpy&logoColor=8A5A30)
 
-# Me contacter
- Email : mahfooznabihah@gmail.com
-LinkedIn : [https://linkedin.com/in/votreprofil](https://www.linkedin.com/in/nabiha-m-719655384)
+### ✨ IA Générative & LLMs
+![LangChain](https://img.shields.io/badge/LangChain-E8F4EE?style=for-the-badge&logo=langchain&logoColor=3A7A5A)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FBF0E8?style=for-the-badge&logo=huggingface&logoColor=8A5A30)
+![OpenAI GPT](https://img.shields.io/badge/GPT-EEE8F8?style=for-the-badge&logo=openai&logoColor=6B4BA8)
+![Claude](https://img.shields.io/badge/Claude-F8E8EE?style=for-the-badge&logo=anthropic&logoColor=9D5B7B)
+![Ollama](https://img.shields.io/badge/Ollama-E8EEF8?style=for-the-badge&logo=ollama&logoColor=3A5A8A)
 
-# Objectif GitHub
+### 📊 Visualisation
+![Matplotlib](https://img.shields.io/badge/Matplotlib-F8E8EE?style=for-the-badge&logo=python&logoColor=9D5B7B)
+![Plotly](https://img.shields.io/badge/Plotly-EEE8F8?style=for-the-badge&logo=plotly&logoColor=6B4BA8)
+![Seaborn](https://img.shields.io/badge/Seaborn-E8F4EE?style=for-the-badge&logo=python&logoColor=3A7A5A)
+![Shiny](https://img.shields.io/badge/Shiny-E8EEF8?style=for-the-badge&logo=r&logoColor=3A5A8A)
 
-Partager mes projets en data, machine learning et analyse économique, tout en construisant un portfolio solide pour mes futures opportunités académiques et professionnelles.
+### 🔧 Outils & Plateformes
+![Git](https://img.shields.io/badge/Git-FBF0E8?style=for-the-badge&logo=git&logoColor=8A5A30)
+![Docker](https://img.shields.io/badge/Docker-E8EEF8?style=for-the-badge&logo=docker&logoColor=3A5A8A)
+![Jupyter](https://img.shields.io/badge/Jupyter-F8E8EE?style=for-the-badge&logo=jupyter&logoColor=9D5B7B)
+![VS Code](https://img.shields.io/badge/VS_Code-EEE8F8?style=for-the-badge&logo=visualstudiocode&logoColor=6B4BA8)
 
-Merci pour votre visite !
+---
+
+## 🚀 Projets phares
+
+| Projet | Description | Stack |
+|--------|-------------|-------|
+| 🫀 [**memoire_ecg**](https://github.com/latifo01/memoire_ecg) | Analyse de signaux ECG & IA médicale — classification de pathologies cardiaques | ![Python](https://img.shields.io/badge/-Python-EEE8F8?style=flat&logo=python&logoColor=6B4BA8) |
+| 🏦 [**Credit-Risk-Modelling**](https://github.com/latifo01/Credit-Risk-Modelling) | Évaluation et prédiction du risque de crédit par ML | ![Python](https://img.shields.io/badge/-Python-EEE8F8?style=flat&logo=python&logoColor=6B4BA8) ![XGBoost](https://img.shields.io/badge/-XGBoost-E8F4EE?style=flat&logoColor=3A7A5A) |
+| 🤖 [**Reinforcement-Learning-Project**](https://github.com/latifo01/Reinforcement-Learning-Project) | MDP & Dynamic Programming — implémentation complète | ![C++](https://img.shields.io/badge/-C++-F8E8EE?style=flat&logo=cplusplus&logoColor=9D5B7B) |
+| 💼 [**Portfolio Website**](https://github.com/latifo01/portofolio) | Site personnel showcasing projets & expériences | ![TypeScript](https://img.shields.io/badge/-TypeScript-E8EEF8?style=flat&logo=typescript&logoColor=3A5A8A) ![Next.js](https://img.shields.io/badge/-Next.js-EEE8F8?style=flat&logo=nextdotjs&logoColor=6B4BA8) |
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=latifo01&show_icons=true&theme=default&bg_color=EEE8F8&title_color=6B4BA8&icon_color=9D5B7B&text_color=3A3060&border_color=C4B4E8&border_radius=12)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=latifo01&layout=compact&theme=default&bg_color=F8E8EE&title_color=9D5B7B&text_color=6B3A5A&border_color=E8B4C8&border_radius=12)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=latifo01&bg_color=E8EEF8&color=3A5A8A&line=A8B8D8&point=6B4BA8&area=true&hide_border=true)
+
+</div>
+
+---
+
+## 🌱 Ce que j'explore en ce moment
+
+```
+🔬 LLMs from scratch     →  Architecture Transformer, pré-entraînement
+🎯 Fine-tuning           →  LoRA, PEFT, instruction tuning
+📚 RAG Systems           →  Vector databases, retrieval pipelines
+🧠 Deep Learning         →  Vision, NLP, architectures avancées
+⚙️  MLOps               →  Docker, CI/CD, déploiement de modèles
+```
+
+---
+
+## 🤝 Collaborons !
+
+Je suis toujours ouvert à des collaborations sur des projets **Data Science**, **Machine Learning** ou **IA Générative** !
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/Me_contacter_sur_LinkedIn-C4B4E8?style=for-the-badge&logo=linkedin&logoColor=6B4BA8)](https://www.linkedin.com/in/abdelatif-ibrahim/)
+[![Portfolio](https://img.shields.io/badge/Voir_mon_Portfolio-F8E8EE?style=for-the-badge&logo=vercel&logoColor=9D5B7B)](https://ibrahim-abdelatif.vercel.app/)
+
+</div>
+
+---
+
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=soft&color=0:EEE8F8,100:E8F4EE&height=80&section=footer)
+
+</div>
