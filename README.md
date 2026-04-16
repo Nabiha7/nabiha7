@@ -1,20 +1,4 @@
-<!-- HEADER -->
-<div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=soft&color=0:EEE8F8,50:F8E8EE,100:E8EEF8&height=180&section=header&text=Ibrahim%20Youssouf%20Abdelatif&fontSize=36&fontColor=6B4BA8&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20·%20MSc%20Applied%20Mathematics%20—%20Paris-Dauphine%20PSL&descAlignY=58&descSize=16)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=9D5B7B&center=true&vCenter=true&repeat=true&width=500&height=35&lines=Junior+Data+Scientist;Machine+Learning+Engineer;Generative+AI+Enthusiast;Applied+Mathematics+·+Dauphine+PSL)](https://git.io/typing-svg)
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-C4B4E8?style=for-the-badge&logo=linkedin&logoColor=6B4BA8)](https://www.linkedin.com/in/abdelatif-ibrahim/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-F8E8EE?style=for-the-badge&logo=vercel&logoColor=9D5B7B)](https://ibrahim-abdelatif.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-E8F4EE?style=for-the-badge&logo=gmail&logoColor=3A7A5A)](mailto:ton.email@exemple.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=latifo01&style=for-the-badge&color=C4B4E8)](https://github.com/latifo01)
-
-</div>
-
----
 
 ## 🌸 À propos de moi
 
